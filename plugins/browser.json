@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "phat"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "phat"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "phat"
+        }
+    }
+}
